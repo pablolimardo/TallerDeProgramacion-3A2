@@ -4,6 +4,7 @@ Todo lo que escribia entre los caracteres barra invertida - asterisco - asterisc
 Este usa para la introducción del programa que estamos haciendo o un comentario que exceda el renglón */
 
 // Esto es un comentario de una linea.
+//Esta es otra linea
 
 /*Lo primero que tenemos que incluir en un programa de c++ son las bibliotecas necesarias para nuestro proyecto. La que usaremos siempre por defecto es iostream. Para incorporar una biblioteca a nuestro proyecto, lo haremos con la palabra reservada #include y entre signos de mayor y menor, el nombre de la libreria que queremos incluir.*/
 
